@@ -23,4 +23,5 @@ The following files each utilize a different light detection method. These metho
 - ball_tracking.py
 - circleDetect.py
 - rgb_normalization.py
+- TemplateMatching.py
 
